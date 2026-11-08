@@ -143,14 +143,6 @@ Built with my team during the *Samsung Innovation Campus* AI program, targeting 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=uturkmen24&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
----
-
 ## 📫 Reach Me
 
 <p>
