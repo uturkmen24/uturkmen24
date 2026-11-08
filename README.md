@@ -10,7 +10,7 @@ I'm **Umut Türkmen**, a second-year **Computer Engineering & Mathematics** doub
 ## ⏪ Previously
 
 - 🔬 **Summer Research Intern** at **Özyeğin University** under Prof. Dr. İrşadi Aksun, researching data science and search algorithms through applied linear algebra, using **Julia** and **Pluto.jl** notebooks
-- 🏆 Joined the **Samsung Innovation Campus** AI program and built **[Plain Leaflet](https://github.com/EfeCicekdagi/plain-leaflet)** with my team at its *GenAI for SDGs Hackathon*
+- 🥉 3nd Place at the Samsung Innovation Campus GenAI for SDGs Hackathon with **[Plain Leaflet](https://github.com/EfeCicekdagi/plain-leaflet)** with my team at its *GenAI for SDGs Hackathon*
 - 🏥 Built the bilingual (TR / EN) corporate website for **[SIMICAD](https://github.com/uturkmen24/simicad-web)**, a surgical-simulation training company (HTML, CSS, JavaScript, Firebase)
 - ☕ Designed and built **Kulatro**, an object-oriented Java card game with a Swing GUI, for *COMP132: Advanced Programming*, the course I'm now a TA for
 - 📈 Built an end-to-end, explainable **customer churn model** on the IBM Telco dataset with scikit-learn
@@ -97,7 +97,7 @@ Built for *COMP132: Advanced Programming* at Koç University, where I'm now a Te
 <tr>
 <td colspan="2" valign="top">
 
-### 💊 [Plain Leaflet](https://github.com/EfeCicekdagi/plain-leaflet) · 🏆 Team project, Samsung Innovation Campus GenAI for SDGs Hackathon
+### 💊 [Plain Leaflet](https://github.com/EfeCicekdagi/plain-leaflet) · 🥉 3nd Place, Samsung Innovation Campus GenAI for SDGs Hackathon
 **Turning medicine package leaflets into plain-English, large-print cards for older adults.**
 Built with my team during the *Samsung Innovation Campus* AI program, targeting **SDG 3.8** (access to safe medicines and health information) and **SDG 10.2** (inclusion of older adults).
 
