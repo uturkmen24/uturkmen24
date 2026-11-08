@@ -1,43 +1,12 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Hi,%20I'm%20Umut%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%26%20Mathematics%20%40%20Koç%20University&descSize=16&descAlignY=60" width="100%" alt="header" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2C9FAF&center=true&vCenter=true&width=600&lines=Building+things+with+Python%2C+Java+%26+JavaScript;Deep+learning+for+medical+imaging+%F0%9F%A7%A0;Explainable+ML+for+business+problems+%F0%9F%93%8A;Shipping+web+apps+people+actually+use+%F0%9F%9A%80" alt="Typing SVG" /></a>
-
-<a href="https://www.linkedin.com/in/umuturkmen/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://uturkmen24.github.io/capitrack/"><img src="https://img.shields.io/badge/CapiTrack-Live%20Demo-2C9FAF?style=for-the-badge&logo=githubpages&logoColor=white" alt="CapiTrack live demo" /></a>
-<img src="https://komarev.com/ghpvc/?username=uturkmen24&style=for-the-badge&color=2c5364&label=Profile+Views" alt="Profile views" />
-
-</div>
-
----
-
 ## 🙋‍♂️ About Me
 
-I'm **Umut Türkmen**, a second-year **Computer Engineering & Mathematics** double major at **Koç University**. I like turning ideas into working software, from deep learning models to web apps that solve everyday problems.
-
-I enjoy work where **data meets real decisions**: segmenting brain tumors on MRI scans, explaining why telecom customers leave, or helping people see all of their savings in one place. I care about clean structure, honest evaluation metrics and documentation that someone else can actually follow.
-
-```yaml
-name: Umut Türkmen
-university: Koç University
-majors: [Computer Engineering, Mathematics]
-year: 2nd year
-role: Undergraduate Teaching Assistant (COMP132)
-focus: [Machine Learning, Deep Learning, Linear Algebra & Search Algorithms, Web Development]
-languages: [Turkish, English]
-```
-
+I'm **Umut Türkmen**, a second-year **Computer Engineering & Mathematics** double major with minors in Artificial Intelligence, Data Analytics and Applied Statistics at **Koç University** (GPA: 3.75).
 ---
 
 ## 🔭 Currently
 
 - 🎓 Second-year **Computer Engineering & Mathematics** double major at **Koç University**
 - 👨‍🏫 **Undergraduate Teaching Assistant** for *COMP132: Advanced Programming* (Java & OOP)
-- 🧠 Taking **Machine & Deep Learning Applications** and working on medical image segmentation with PyTorch
-- 💼 Building and improving **[CapiTrack](https://github.com/uturkmen24/capitrack)**, my personal portfolio-tracking web app
-- ✍️ Exploring **AI-assisted content creation** in the *Content Generation with AI* course
-- 🌱 Learning more about **3D / 2.5D segmentation, ensemble models and modern React tooling**
 
 ## ⏪ Previously
 
@@ -189,7 +158,5 @@ Built with my team during the *Samsung Innovation Campus* AI program, targeting 
   <a href="https://www.linkedin.com/in/umuturkmen/"><img src="https://img.shields.io/badge/LinkedIn-Umut%20Türkmen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/uturkmen24"><img src="https://img.shields.io/badge/GitHub-uturkmen24-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-I'm always happy to talk about machine learning, research, side projects or internship opportunities. Feel free to reach out! 🤝
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
