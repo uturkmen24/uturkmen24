@@ -1,5 +1,5 @@
 ## 🙋‍♂️ About Me ##
----
+
 I'm **Umut Türkmen**, a second-year **Computer Engineering & Mathematics** double major with minors in Artificial Intelligence, Data Analytics and Applied Statistics at **Koç University** (GPA: 3.75).
 
 ## 🔭 Currently
