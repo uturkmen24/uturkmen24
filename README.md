@@ -119,27 +119,7 @@ Built with my team during the *Samsung Innovation Campus* AI program, targeting 
 
 ## 🛠️ Languages & Tools
 
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,julia,js,html,css&theme=dark" alt="Languages" />
-</p>
-
-**ML / Data Science**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="ML tools" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="48" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="48" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" height="48" />
-</p>
-
-**Web & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,firebase,git,github,githubactions,vscode,idea&theme=dark" alt="Web and tools" />
-</p>
+Python | Java | Julia | Jupyter | PyTorch | Matplotlib
 
 ---
 
