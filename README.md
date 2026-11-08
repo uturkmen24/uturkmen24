@@ -147,7 +147,6 @@ Built with my team during the *Samsung Innovation Campus* AI program, targeting 
 
 <p>
   <a href="https://www.linkedin.com/in/umuturkmen/"><img src="https://img.shields.io/badge/LinkedIn-Umut%20Türkmen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/uturkmen24"><img src="https://img.shields.io/badge/GitHub-uturkmen24-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
